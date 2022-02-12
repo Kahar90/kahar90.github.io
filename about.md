@@ -25,50 +25,18 @@ titles:
   # @end locale config
 key: page-about
 ---
+<!-- # Nabil Alkahar -->
+<div style="width:30%; margin:0 auto;" align="center" markdown="1">
+![https://media-exp1.licdn.com/dms/image/C5603AQHatZrxK6IOZA/profile-displayphoto-shrink_800_800/0/1643474859267?e=1649894400&v=beta&t=iDOJXvhRzl3LTXlWW4ihULGqWsBfKMNQ4PcxOLdUYes](https://media-exp1.licdn.com/dms/image/C5603AQHatZrxK6IOZA/profile-displayphoto-shrink_800_800/0/1643474859267?e=1649894400&v=beta&t=iDOJXvhRzl3LTXlWW4ihULGqWsBfKMNQ4PcxOLdUYes){:.circle.shadow}
+</div>
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Nabil Alkahar is a sophomore at Universiti Teknologi Malaysia.
+He is interested in the intersection of mobile development and cyber security. A member of the Google Student's Developer Club Malaysia. Also a member of UTM's Cyber Security Club and one of UTM's CyberX CTF Player. He often blogs about his experiences, and work on his personal projects whenever he has the time.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+He is well versed in developing mobile applications with Flutter, and also knowledgeable in working with backend (REST APIs, Databases, etc).
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+### Nabil’s [LinkedIn](https://www.linkedin.com/in/nabilalkahar/)
 
-## Features
+### Nabil’s [Github](https://github.com/Kahar90)
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
-
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+### Nabil’s [Resume](https://drive.google.com/file/d/1AnLHQBTBe1isO8zDlAybMVodLbXyHWAV/view?usp=sharing)
