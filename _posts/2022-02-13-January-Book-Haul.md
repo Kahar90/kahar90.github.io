@@ -1,7 +1,7 @@
 ---
-layout: article
 title: January Book Haul
 tags: Books
+mathjax: true
 ---
 
 # January Book Haul
@@ -79,3 +79,5 @@ This book wakes you up to the opportunity you are missing out on. Your own littl
 I have always been timid, anxious of my work that is subpar relative to those others. But a lesson can be learned from the book, no one starts a master, and critiques are the building blocks of the road to mastery. Sharing your work opens up a path of new ideas, friends, and opportunities ahead; and this website is my take on sharing my work.
 
 Rating ⭐⭐⭐⭐
+
+<!--more-->
