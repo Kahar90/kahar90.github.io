@@ -1,4 +1,5 @@
 ---
+layout: article
 title: January Book Haul
 tags: Books
 ---
