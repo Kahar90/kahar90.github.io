@@ -5,9 +5,8 @@ tags: Projects
 
 # Flutter GitHub Client - Mobile
 
-Hello there! Today I am going to showcase a project that I made a while back. This project was built for a technical test for a job, and since there’s no NDA or whatever, I am here to share it with you. The app is built with Flutter, and the API used is provided by GitHub. The app showcases common state management technique, REST APIs, and data parsing.
+Hello there! Today I am going to showcase a project that I made a while back. This project was built for a technical test for a job, and since there’s no NDA or whatever, I am here to share it with you. The app is built with Flutter, and the API used is provided by GitHub. It showcases common state management technique (BloC Pattern), REST APIs, and data parsing.
 
-The app was built using Flutter, and uses BloC pattern for the state management. 
 
 The code for the project can be found on my GitHub or through this [link](https://github.com/Kahar90/Githubflutterclient).
 
