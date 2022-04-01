@@ -27,7 +27,7 @@ key: page-about
 ---
 <!-- # Nabil Alkahar -->
 <div style="width:30%; margin:0 auto;" align="center" markdown="1">
-![https://media-exp1.licdn.com/dms/image/C5603AQHatZrxK6IOZA/profile-displayphoto-shrink_800_800/0/1643474859267?e=1649894400&v=beta&t=iDOJXvhRzl3LTXlWW4ihULGqWsBfKMNQ4PcxOLdUYes](https://media-exp1.licdn.com/dms/image/C5603AQHatZrxK6IOZA/profile-displayphoto-shrink_800_800/0/1643474859267?e=1649894400&v=beta&t=iDOJXvhRzl3LTXlWW4ihULGqWsBfKMNQ4PcxOLdUYes){:.circle.shadow}
+![https://media-exp1.licdn.com/dms/image/C5603AQHiO8xkHjz4aA/profile-displayphoto-shrink_200_200/0/1647438527589?e=1654128000&v=beta&t=gIzxFSn1jWauarBAchegEHB_kkYvufhRopy3zVMQZQo](https://media-exp1.licdn.com/dms/image/C5603AQHiO8xkHjz4aA/profile-displayphoto-shrink_200_200/0/1647438527589?e=1654128000&v=beta&t=gIzxFSn1jWauarBAchegEHB_kkYvufhRopy3zVMQZQo){:.circle.shadow}
 </div>
 
 Nabil Alkahar is a sophomore at Universiti Teknologi Malaysia.
